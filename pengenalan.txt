@@ -1,1 +1,3 @@
 Pengenalan bahasa python, kelebihannya.
+Python merupakan bahasa pemrograman interpreter, tidak seperti bahasa lainnya yang sulit untuk dibaca dan dipahami, python lebih menekankan pada keterbacaan kode agar lebih mudah untuk memahami sintaks.
+Bahasa ini muncul pertama kali pada tahun 1991, dirancang oleh Guido Van Rossum.
